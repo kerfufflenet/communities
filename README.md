@@ -1,4 +1,6 @@
-**BGP Community Guide![](kerfuffle.png)**
+![](kerfuffle.png)
+
+**BGP Community Guide**
 
 Below are the BGP communities set by or accepted by Kerfuffle AS35008. Action communities are only accepted from customers and all of our communities are stripped from peers and transits by default.
 
