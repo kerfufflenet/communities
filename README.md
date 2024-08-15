@@ -63,7 +63,7 @@ Prefixes of /32 IPv4 and /128 IPv6 tagged with these communities will perform RT
 
 **Action Communities**
 
-Below are communities which can be used by customers, when announcing your prefixes to AS35008. Controls include prepending toward a specific transit provider, specific IXP, or by provider type e.g. all peers, all transits, all customers.
+Below are communities which can be used by customers, when announcing your prefixes to AS35008. Controls include prepending toward a specific transit provider, specific IXP, or by provider type e.g. all peers, all transits.
 
 *By default you can perform prepend or do not announce actions toward a specific provider or set of peers at an IXP*
 
