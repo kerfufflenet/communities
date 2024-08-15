@@ -9,7 +9,7 @@ Below are the BGP communities set by or accepted by Kerfuffle AS35008. Action co
 |**Provider Name**|**Type**|**Provider ID**|**Default Local Pref**|**Default MED**|
 | - | - | - | - | - |
 |Hurricane Electric|Transit [50]|6939|90|5|
-|Edgoo|Transit [50]|47787|90|0|
+|Edgoo|Transit [50]|6424|90|0|
 |FCIX - IXP|IXP [51]|33495|95|0|
 |SFMIX - IXP|IXP [51]|12276|95|5|
 |FREMIX - IXP|IXP [51]|57369|95|5|
